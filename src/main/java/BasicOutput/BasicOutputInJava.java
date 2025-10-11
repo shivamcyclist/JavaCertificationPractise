@@ -12,5 +12,8 @@ public class BasicOutputInJava {
         int a = 27;
         System.out.printf("%d",a);
 
+        String s = "shivam";
+        System.out.printf("%n%S",s);//Changing the line before printing using %n.
+
     }
 }
