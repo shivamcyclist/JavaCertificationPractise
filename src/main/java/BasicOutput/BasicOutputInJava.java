@@ -1,5 +1,6 @@
 package BasicOutput;
 
+//Program to practise print(), println() and printf() in Java.
 public class BasicOutputInJava {
     public static void main(String[] args) {
         System.out.println("Java Programming is fun");
