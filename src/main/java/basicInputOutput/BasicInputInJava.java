@@ -1,4 +1,4 @@
-package BasicInputOutput;
+package basicInputOutput;
 
 import java.util.Scanner;
 
@@ -7,16 +7,16 @@ public class BasicInputInJava {
         Scanner input = new Scanner(System.in);
 
         //Getting Number as an input.
-//        System.out.println("Enter a number");
-////        int number = input.nextInt();
-//        System.out.println("You entered: "+ input.nextInt());
-//        input.close();
+        /*System.out.println("Enter a number");
+//        int number = input.nextInt();
+        System.out.println("You entered: "+ input.nextInt());
+        input.close();
 
         //Getting single String as an input.
 //        System.out.println("Please enter a word");
 //        String word = input.next();
 //        System.out.println("You entered: "+ word);
-//        input.close();
+//        input.close();*/
 
         //Getting multiple String as an input.
         System.out.println("Please enter multiple words");

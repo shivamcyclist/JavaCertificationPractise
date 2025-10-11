@@ -1,4 +1,4 @@
-package BasicInputOutput;
+package basicInputOutput;
 
 //Program to practise print(), println() and printf() in Java.
 public class BasicOutputInJava {
